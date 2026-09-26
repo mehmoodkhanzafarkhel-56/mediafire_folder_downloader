@@ -22,7 +22,8 @@ ls
 6:- Now you have two main files one is req.sh and 2nd is tool_maker.sh
 
 7:- Now run the file by typing 
-bash req.sh && tool_maker.sh
+bash req.sh & 
+bash tool_maker.sh
 
 8:- This will install all the required package and will also make the downloader program
 
