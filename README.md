@@ -1,2 +1,4 @@
 # mediafire_folder_downloader
-An automated, high-speed MediaFire folder downloader built for Termux (Android) and Linux. It bypasses MediaFire's default 100-file API pagination limit and downloads full folder contents simultaneously using 15 parallel worker threads for maximum speed. For step-by-step setup and usage instructions, please read README.md
+first update and upgrade the packages by typing Termux : apt update && apt upgrade -y    For Linux Type sudo apt update && sudo apt upgrade -y
+then install git Termux : apt install git -y    For Linux Type sudo apt install git -y
+then clone the repo by typing git clone
